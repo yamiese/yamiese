@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Adil Alias
 
-<!--
-**yamiese/yamiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UiTM (CS230).
 
-Here are some ideas to get you started:
+## About
+I'm interested in multi-agent systems and rail simulation. My final year project studies how trains can coordinate during disruptions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Photography: I enjoy photography as a hobby. See my work at [yamiese.github.io](https://yamiese.github.io)
+
+## Skills
+- **Programming languages:** Python, JavaScript, Java, C++
+- **Web:** HTML, CSS, web development
+- **Systems:** system development
+- **Tools:** Git, GitHub, Flatland
+
+## Projects
+- [csc649-assignment](https://github.com/yamiese/csc649-assignment): problem formulation, requirements and technology brief on how trains should coordinate during rail disruptions
+
+## Contact
+- Email: adilalias2004@gmail.com
+- LinkedIn : https://www.linkedin.com/in/adil-alias-482526401/
