@@ -15,6 +15,7 @@ I'm interested in multi-agent systems and rail simulation. My final year project
 - **Tools:** Git, GitHub, Flatland
 
 ## Projects
+- [csc584-assignment1&2](https://github.com/yamiese/InfoMench): student profile management system 
 - [csc649-assignment](https://github.com/yamiese/csc649-assignment): problem formulation, requirements and technology brief on how trains should coordinate during rail disruptions
 
 ## Contact
